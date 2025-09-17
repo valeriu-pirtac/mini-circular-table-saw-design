@@ -1,0 +1,6 @@
+# Ignore FreeCAD backup files
+*.FCBak
+
+# Ignore operating system generated files
+.DS_Store
+Thumbs.db
